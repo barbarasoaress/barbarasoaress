@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Barbara Soares
 
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Tecnólogo Análise e Desenvolvimento de Sistemas - 2º semestre
 - 😄 Pronouns: ela/dela
 
 <div align="center">
