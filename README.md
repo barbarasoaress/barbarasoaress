@@ -1,4 +1,4 @@
-### Olá! Eu sou a Barbara Soares
+### Olá! Seja bem-vindo(a).
 
 
 - 🌱 Tecnólogo Análise e Desenvolvimento de Sistemas - 2º semestre
