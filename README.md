@@ -1,8 +1,8 @@
 ### Olá! Seja bem-vindo(a).
 
 
-- 📚 Cursando: Análise e Desenvolvimento de Sistemas 3/5
 - 😄 Pronouns: ela/dela
+- 📚 Cursando: Análise e Desenvolvimento de Sistemas 3/5
 
 <div align="center">
   <a href="https://github.com/barbarasoaress">
