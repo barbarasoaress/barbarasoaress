@@ -1,7 +1,7 @@
 ### Olá! Seja bem-vindo(a).
 
 
-
+- 📚 Cursando: Análise e Desenvolvimento de Sistemas 3/5
 - 😄 Pronouns: ela/dela
 
 <div align="center">
