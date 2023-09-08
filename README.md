@@ -4,11 +4,6 @@
 - 😄 Pronouns: ela/dela
 - 📚 Cursando: Análise e Desenvolvimento de Sistemas 3/5
 
-<div align="center">
-  <a href="https://github.com/barbarasoaress">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbarasoaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div>
   Conhecimento básico:
 </div>
 <div style="display: inline_block"><br>
