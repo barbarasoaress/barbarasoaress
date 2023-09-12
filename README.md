@@ -1,4 +1,4 @@
-### Olá! Seja bem-vindo(a).
+### Olá! Meu nome é Barbara.
 
 
 - 😄 Pronouns: ela/dela
