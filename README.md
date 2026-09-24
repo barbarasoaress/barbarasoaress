@@ -24,14 +24,17 @@ Tenho focado meus estudos em **JavaScript**, além de HTML, CSS, Git e GitHub, c
 
 ---
 
-### 💻 Projetos
+### 💻 Projetos em destaque
 
-Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos, onde estou praticando lógica de programação, JavaScript e desenvolvimento web.
+- 🎮 [Jogo da Velha](https://github.com/barbarasoaress/jogo-da-velha)
+- 🧮 [Calculadora Web](https://github.com/barbarasoaress/calculadora)
+- 📱 [Gerador de QR Code](https://github.com/barbarasoaress/gerador_QRcode)
+- 🕒 [Relógio Digital](https://github.com/barbarasoaress/relogiodigital)
 
-Estou sempre buscando evoluir meus projetos conforme avanço nos estudos. 🚀
+Também mantenho outros projetos de estudo em **JavaScript** e **Python**, acompanhando minha evolução em lógica de programação e desenvolvimento de software.
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbarasoaresds/)
