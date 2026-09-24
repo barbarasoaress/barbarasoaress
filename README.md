@@ -1,27 +1,37 @@
-### Olá! Seja bem-vindo(a).
+# Olá! Eu sou a Barbara Soares 👋
 
+### 💻 Desenvolvedora em formação | Engenharia de Software
 
-- 😄 Pronouns: ela/dela
+Estou construindo minha carreira na área de tecnologia e atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento web.
 
-<div align="center">
-  <a href="https://github.com/barbarasoaress">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarasoaress&layout=compact&langs_count=7&theme=react" />
+Tenho focado meus estudos em **JavaScript**, além de HTML, CSS, Git e GitHub, criando projetos práticos para consolidar o aprendizado.
 
- <br>
+---
 
-  <div align="center">Conhecimento básico</div>
-</div>
-<div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="RJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### 🚀 Atualmente estudando
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 </div>
 
-</div>
-<br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/barbarasoaresds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📚 Próximos estudos
 
+- TypeScript
+- React
+- Node.js
+- PostgreSQL / SQL
+- APIs REST
 
+---
+
+### 💻 Projetos
+
+Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos, onde estou praticando lógica de programação, JavaScript e desenvolvimento web.
+
+Estou sempre buscando evoluir meus projetos conforme avanço nos estudos. 🚀
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-DO-LINKEDIN)
