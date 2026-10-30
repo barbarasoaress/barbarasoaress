@@ -4,15 +4,7 @@
 
 Estou construindo minha carreira na área de tecnologia e atualmente desenvolvendo meus conhecimentos em programação e desenvolvimento web.
 
-Tenho focado meus estudos em **JavaScript**, além de HTML, CSS, Git e GitHub, criando projetos práticos para consolidar o aprendizado.
-
 ---
-
-### 🚀 Atualmente estudando
-
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</div>
 
 ### 📊 Linguagens mais usadas no GitHub
 
@@ -22,13 +14,6 @@ Tenho focado meus estudos em **JavaScript**, além de HTML, CSS, Git e GitHub, c
 
 > Estatística gerada automaticamente a partir do código dos meus repositórios públicos e atualizada pelo próprio GitHub.
 
-### 📚 Próximos estudos
-
-- TypeScript
-- React
-- Node.js
-- PostgreSQL / SQL
-- APIs REST
 
 ---
 
