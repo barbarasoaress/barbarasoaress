@@ -1,13 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="135" viewBox="0 0 680 135">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="213" viewBox="0 0 680 213">
 <style>
   .title { font: 600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #24292f; }
-  .text { font: 14px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #57606a; }
+  .lang, .pct { font: 14px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #57606a; }
   @media (prefers-color-scheme: dark) {
     .title { fill: #f0f6fc; }
-    .text { fill: #8b949e; }
+    .lang, .pct { fill: #8b949e; }
   }
 </style>
-<text x="28" y="35" class="title">Linguagens mais usadas</text>
-<text x="28" y="75" class="text">Atualizando estatísticas do GitHub…</text>
-<rect x="28" y="95" width="624" height="16" rx="8" fill="#d0d7de" />
+<text x="28" y="30" class="title">Linguagens mais usadas</text>
+<clipPath id="bar"><rect x="28" y="55" width="624" height="18" rx="9" /></clipPath>
+<g clip-path="url(#bar)"><rect x="28.00" y="55" width="216.59" height="18" fill="#e34c26" /><rect x="244.59" y="55" width="202.69" height="18" fill="#f1e05a" /><rect x="447.28" y="55" width="136.73" height="18" fill="#563d7c" /><rect x="584.01" y="55" width="67.99" height="18" fill="#3572A5" /></g>
+<circle cx="33" cy="98" r="5" fill="#e34c26" /><text x="46" y="102" class="lang">HTML</text><text x="652" y="102" text-anchor="end" class="pct">34.7%</text><circle cx="33" cy="125" r="5" fill="#f1e05a" /><text x="46" y="129" class="lang">JavaScript</text><text x="652" y="129" text-anchor="end" class="pct">32.5%</text><circle cx="33" cy="152" r="5" fill="#563d7c" /><text x="46" y="156" class="lang">CSS</text><text x="652" y="156" text-anchor="end" class="pct">21.9%</text><circle cx="33" cy="179" r="5" fill="#3572A5" /><text x="46" y="183" class="lang">Python</text><text x="652" y="183" text-anchor="end" class="pct">10.9%</text>
 </svg>
