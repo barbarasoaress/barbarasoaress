@@ -17,10 +17,10 @@ Tenho focado meus estudos em **JavaScript**, além de HTML, CSS, Git e GitHub, c
 ### 📊 Linguagens mais usadas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarasoaress&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent" alt="Linguagens mais usadas por Barbara Soares" />
+  <img src="./assets/languages.svg" alt="Linguagens mais usadas por Barbara Soares" width="680" />
 </div>
 
-> Estatística dinâmica baseada no código dos meus repositórios públicos no GitHub.
+> Estatística gerada automaticamente a partir do código dos meus repositórios públicos e atualizada pelo próprio GitHub.
 
 ### 📚 Próximos estudos
 
