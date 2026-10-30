@@ -28,7 +28,7 @@ jobs:
 
       - name: Salvar atualização
         run: |
-          if git diff --quiet -- assets/languages.svg; then
+          if [ -z "$(git status --porcelain -- assets/languages.svg)" ]; then
             echo "Sem alterações nas linguagens."
             exit 0
           fi
