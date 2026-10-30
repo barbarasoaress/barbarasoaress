@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="135" viewBox="0 0 680 135">
+<style>
+  .title { font: 600 18px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #24292f; }
+  .text { font: 14px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif; fill: #57606a; }
+  @media (prefers-color-scheme: dark) {
+    .title { fill: #f0f6fc; }
+    .text { fill: #8b949e; }
+  }
+</style>
+<text x="28" y="35" class="title">Linguagens mais usadas</text>
+<text x="28" y="75" class="text">Atualizando estatísticas do GitHub…</text>
+<rect x="28" y="95" width="624" height="16" rx="8" fill="#d0d7de" />
+</svg>
